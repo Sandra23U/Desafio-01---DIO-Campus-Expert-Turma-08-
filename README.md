@@ -4,6 +4,18 @@
 
 ## Compartilhando minhas conquistas junto com a Dio.
 
+### Name: Sandra Souza
+
+### Main Skills:Soft Skills
+### Java
+### JavaScript
+### Power BI
+### Achievements:
+### Developed Skills: 
+### 74Conquests: 
+### 582Projects Completed: 
+62Articles Written: 10
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
